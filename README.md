@@ -12,6 +12,8 @@ java后端自学视频课代码，just learning。。
 
  _ _**主要还是熟悉springboot+mybatis，了解一下后端业务逻辑 :zzz:**_  _ 
 
+- 注意mybatis里面mapper层的动态sql语句 :zzz: 
+
  **Summary for some point** ：
 - 接触了Swagger，一种更方便的接口测试工具，注解自动生成接口文档。项目用的knife4j（简化swagger）
 - 用了一次AOP，实现简单的公共字段自动填充，所谓面向切面编程 :zzz: 还是不太懂
