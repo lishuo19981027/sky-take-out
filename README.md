@@ -23,5 +23,6 @@ java后端自学视频课代码，just learning。。
 - 接触到cpolar神器（内网穿透）[https://dashboard.cpolar.com/get-started](http://)
 - 接触WebSocket（双工通信，服务端可以自主发信息给浏览器端）
 - 接触Spring task（定时任务），以及Apache echarts（一些图表类的前端js模板），以及Apache POI（java处理excel，word等的方式）
-- 还有一个，还有一个 :sob: 用了处理事务的相关注解 :zzz: 
+- 还有一个，还有一个 :sob: 用了处理事务的相关注解 :zzz: 从而接触到了事务 :zzz: 
+
 
