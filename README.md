@@ -1,7 +1,7 @@
 # sky-take-out
 
 #### 介绍
-java后端自学视频课代码，just learning。。
+java后端自学视频课代码，just study。。。
 
 ### 记录一下通过视频自学Java后端的过程
 
